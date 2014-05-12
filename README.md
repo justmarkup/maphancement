@@ -9,4 +9,4 @@ Add ```data-map="true"``` to your static map image. Done.
 
 Demo
 -------------
-http://jsbin.com/cucof/2
+http://jsbin.com/cucof/latest
