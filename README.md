@@ -5,7 +5,8 @@ Google Map (progressive enhanced) - At first load only the static image of the m
 
 Usage
 -------------
-Add ```data-map="true"``` to your static map image. Done.
+1. Insert ```<script src="maphancement.min.js"></script>``` just before ```</body>```
+2. Add ```data-map="true"``` to your static map image. Done.
 
 Demo
 -------------
